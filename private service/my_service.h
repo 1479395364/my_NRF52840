@@ -38,5 +38,6 @@ a189a09b-6742-4f7d-9368-5bfa911a6825
 
 void MYServicesInit(void);
 void MYAddWriteChar(void);
+void MYAddIdicateChar(void);
 
 #endif
