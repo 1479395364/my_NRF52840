@@ -1,14 +1,14 @@
 运行nrfutil52 pkg display MegaEEG_V.zip
 
- 
+ ![1575601275536](C:\Users\acer\AppData\Roaming\Typora\typora-user-images\1575601275536.png)
 
-![img](file:///C:\Users\acer\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg)
+
 
  
 
 出现的现象
 
-![img](file:///C:\Users\acer\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg)
+![1575601301832](C:\Users\acer\AppData\Roaming\Typora\typora-user-images\1575601301832.png)
 
  
 
@@ -18,19 +18,25 @@
 - 支持的softdevice版本号
 - 应用程序版本号
 
+![1575601324909](C:\Users\acer\AppData\Roaming\Typora\typora-user-images\1575601324909.png)
+
+
+
+
+
+![1575601346059](C:\Users\acer\AppData\Roaming\Typora\typora-user-images\1575601346059.png)
+
+![1575601367512](C:\Users\acer\AppData\Roaming\Typora\typora-user-images\1575601367512.png)
+
+
+
+
+
+![1575601382445](C:\Users\acer\AppData\Roaming\Typora\typora-user-images\1575601382445.png)
+
  
 
-![img](file:///C:\Users\acer\AppData\Local\Temp\msohtmlclip1\01\clip_image005.png)
-
-![img](file:///C:\Users\acer\AppData\Local\Temp\msohtmlclip1\01\clip_image007.jpg)
-
-![img](file:///C:\Users\acer\AppData\Local\Temp\msohtmlclip1\01\clip_image009.jpg)
-
-![img](file:///C:\Users\acer\AppData\Local\Temp\msohtmlclip1\01\clip_image011.jpg)
-
- 
-
-![img](file:///C:\Users\acer\AppData\Local\Temp\msohtmlclip1\01\clip_image013.jpg)
+![1575601402296](C:\Users\acer\AppData\Roaming\Typora\typora-user-images\1575601402296.png)
 
  
 
@@ -74,4 +80,4 @@ App_size:140716
 
  
 
-![img](file:///C:\Users\acer\AppData\Local\Temp\msohtmlclip1\01\clip_image015.jpg)
+![1575601416375](C:\Users\acer\AppData\Roaming\Typora\typora-user-images\1575601416375.png)
